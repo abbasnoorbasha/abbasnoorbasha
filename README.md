@@ -6,13 +6,18 @@
 - 👀 I’m interested in **Movies🎥🍿🎬**, **Java <img src="https://github.com/NaralaJithendra/NaralaJithendra/blob/main/New%20folder/java.svg" alt="Java" style="vertical-align:top margin:6px 4px" height="21">**, **Aurdino**.
 - 🌱 I’m currently learning **Java <img src="https://github.com/NaralaJithendra/NaralaJithendra/blob/main/New%20folder/java.svg" alt="Java" style="vertical-align:top margin:6px 4px" height="21">**.
 - 💞️ I’m looking to collaborate on **Java <img src="https://github.com/NaralaJithendra/NaralaJithendra/blob/main/New%20folder/java.svg" alt="Java" style="vertical-align:top margin:6px 4px" height="21">**.
-- 📫 How to reach me through **GitHub<img alt=" GitHub" width="22px" src="https://github.com/NaralaJithendra/Html_Css_JavaScript_Codes_Web/blob/main/Button%20Caliculator/github.svg" />**
+- 📫 How to reach me through **GitHub<a href="https://github.com/abbasnoorbasha"><img alt=" GitHub" width="22px" src="https://github.com/NaralaJithendra/Html_Css_JavaScript_Codes_Web/blob/main/Button%20Caliculator/github.svg" /></a>**
+
+<p align="center">
+  <i>Collaborated with <a href="https://github.com/NaralaJithendra">Narala Jithendra <img alt=" GitHub" width="22px" src="https://github.com/NaralaJithendra/Html_Css_JavaScript_Codes_Web/blob/main/Button%20Caliculator/github.svg" /></a>
+</p>
 <p align="center">
   <i>Let's connect and chat! Open to anything.</i>
   <p align="center">
     <a href="https://github.com/abbasnoorbasha"><img alt=" GitHub" width="22px" src="https://github.com/NaralaJithendra/Html_Css_JavaScript_Codes_Web/blob/main/Button%20Caliculator/github.svg" /></a>
     </p>
 </p>
+
 
 <!---
 abbasnoorbasha/abbasnoorbasha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
